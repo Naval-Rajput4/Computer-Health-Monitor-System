@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Generated backup archives and runtime output
+Backups/*
+!Backups/.gitkeep
+Reports/*
+!Reports/.gitkeep
+Logs/*
+!Logs/.gitkeep
+
+# Local/editor files
+.vscode/
+.DS_Store
+Thumbs.db
+Functioning video/20261101-1048-20.0667447.mp4
